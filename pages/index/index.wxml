@@ -1,0 +1,59 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="header">
+    <image class="header-img" src="{{userInfo.headerUrl}}" background-size="cover"></image>
+  </view>
+  <view class="message">
+      <div class="message-title">
+          5880元智能净水机0元搬回家
+      </div>
+      <div class="message-item">免费安装，免费赠机，免费换滤芯，免费以旧换新</div>
+      <div class="message-item">
+          -共享智能净水机-
+      </div>
+  </view>
+  <view class="product-box">
+      <div class="product-title">精品净水机</div>
+      <div class="product-list">
+          <span>
+              <image src="{{userInfo.sp1}}"></image>
+          </span>
+          <span>
+              <image src="{{userInfo.sp2}}"></image>
+          </span>
+      </div>
+      <div class="product-list">
+          <span>
+              <image src="{{userInfo.sp3}}"></image>
+          </span>
+          <span>
+              <image src="{{userInfo.sp4}}"></image>
+          </span>
+      </div>
+  </view>
+  <view class="contact">
+      <image class="contact-img" src="{{userInfo.contact}}"></image>
+      <div class="call-phone">
+          <image class="phone-img" src="{{userInfo.phone}}"></image>
+          <text bindtap="calling" class="phone-text">立即拨打电话</text>
+      </div>
+      <div class="phone" bindtap="calling">
+          <label>电话：</label>18763257699
+      </div>
+      <div class="address" bindtap="addressMap">
+          <label>地址：</label>滕州市威尼斯三区
+      </div>
+      <div class="bottom-text">
+          <p>如果你买得起1台，请给父母，因为他们的器官老化，</p>
+          <p>免疫力已经严重下降。</p>
+          <p>如果你买得起2台，请给子女，因为他们的器官还在</p>
+          <p>发育，一旦受损害伤害很大。</p>
+          <p>如果你买得起3台，请给自己和爱人，因为你们需要</p>
+          <p>有健康的身体去赡养父母和抚养子女！</p>
+          <p>如果你一台都买不起，那就该努力了，少抽点烟少喝</p>
+          <p>点酒少打麻将少斗地主，投资有险。酷饮净水器，全</p>
+          <p>家健康的保护伞。</p>
+          <p>毕竟这是事实</p>
+      </div>
+  </view>
+</view>
