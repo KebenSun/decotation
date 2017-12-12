@@ -1,12 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/woker/woker",
+    "pages/product/product"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "物联网净水机",
-    "navigationBarTextStyle":"black"
+    "navigationBarTitleText": "万泰家装",
+    "navigationBarTextStyle": "black"
   }
 }

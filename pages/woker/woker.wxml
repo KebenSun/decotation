@@ -1,0 +1,57 @@
+<!--pages/woker/woker.wxml-->
+<view class="woker-box">
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7156.jpg'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7144.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7143.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/02/24/photo_6712.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/10/30/photo_7314.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7141.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7155.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7137.jpg'></image>
+  </div>
+    <div class="woker-item">
+    <image src='{{picUrl}}/2017/10/30/photo_7313.jpg'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7142.jpg'></image>
+  </div>
+
+  <div class="woker-item">
+    <image src='{{picUrl}}/2015/07/05/photo_3698.png'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7152.jpg'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/06/07/photo_7154.jpg'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/04/11/photo_6793.jpg'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/10/30/photo_7317.jpg'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2015/07/09/photo_5124.png'></image>
+  </div>
+  <div class="woker-item">
+    <image src='{{picUrl}}/2017/10/30/photo_7316.jpg'></image>
+  </div>
+  <div class="woker-item">
+  </div>
+</view>

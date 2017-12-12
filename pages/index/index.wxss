@@ -9,44 +9,26 @@
   height: 300rpx;
 }
 
-.message {
-  display: flex;
-  height: 200rpx;
-  width: 700rpx;
-  flex-direction: column;
-  color: black;
-  border: 1rpx solid #eeeeee;
-  margin: auto;
-  margin-top: 20rpx;
-  box-shadow: 0 10rpx 10rpx #eeeeee;
-  align-items: center;
-  justify-content: center;
-}
-
-.message-item {
-  font-size: 12px;
-  margin: 10rpx;
-}
-
-.product-box{
-  margin: 30rpx;
-}
-
-.product-title {
-  font-size: 14px;
-  font-weight: 600;
-}
-
-.product-list {
-  margin-top: 20rpx;
+.content {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  width: 750rpx;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  padding-top: 5rpx;
+  padding-bottom: 5rpx;
 }
 
-.product-list image {
-  width: 300rpx;
+.content-item {
+  width: 365rpx; 
+  justify-content: center;
+  align-content: center;
+  display: flex;
   height: 300rpx;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 5rpx;
 }
 
 .contact {
@@ -54,47 +36,9 @@
   flex-direction: column;
   margin-bottom: 0rpx;
   font-size: 12px;
-}
-
-.contact-img {
-  height: 200rpx;
-  width: 750rpx;
-}
-
-.phone-img {
-  width: 80rpx;
-  height: 80rpx;
-  border-radius: 50%;
-  margin-right: 20rpx;
-}
-
-.call-phone {
-  display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin: 20rpx;
-}
-
-.phone-text {
-  font-size: 16px;
-  font-weight: 600;
-}
-
-.phone,.address {
-  margin: 20rpx;
-}
-
-.bottom-text {
-  display: flex;
-  flex-direction: column;
-  margin: 20rpx;
-  align-items: center;
-  border: 1rpx solid #eeeeee;
-  box-shadow: 0 10rpx 10rpx #eeeeee;
-  padding-top: 20rpx;
-  padding-bottom: 20rpx;
-  background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512048014555&di=481ae5e5a80fd552728137fc1861e188&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D87bc2bc68bcb39dbd5cd6f15b87f6351%2Fb7fd5266d0160924f160ed37de0735fae6cd3450.jpg') no-repeat;
-  background-size: 750rpx 450rpx;
-  height: 100%;
+  height: 200rpx;
+  background-color: #ffffff;
+  box-shadow: 0 5rpx 5rpx #eeeeee;
 }

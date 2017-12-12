@@ -1,0 +1,26 @@
+/* pages/woker/woker.wxss */
+.woker-box {
+  display: flex;
+  flex-direction: row;
+  width: 750rpx;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  padding-top: 5rpx;
+  padding-bottom: 5rpx;
+  background-color: #eeeeee;
+}
+.woker-item {
+  width: 365rpx; 
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  height: 400rpx;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 5rpx;
+}
+.woker-item image {
+  width: 360rpx; 
+  height: 390rpx;
+}

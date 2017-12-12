@@ -9,7 +9,7 @@ Page({
       console.log(res.target)
     }
     return {
-      title: '智能净水机0元搬回家',
+      title: '',
       path: 'pages/index/index',
       success: function (res) {
         // 转发成功
@@ -22,14 +22,7 @@ Page({
   data: {
     motto: 'Hello World',
     userInfo: {
-      headerUrl: '../image/header.png',
-      sp1: '../image/sp1.jpg',
-      sp2: '../image/sp2.jpeg',
-      sp3: '../image/sp3.jpg',
-      sp4: '../image/sp4.jpg',
-      contact: '../image/contact.jpg',
-      phone: '../image/phone.jpg',
-      love: '../image/love.jpg'
+      headerUrl: '../image/header.jpg',
     },
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
@@ -38,6 +31,16 @@ Page({
   bindViewTap: function() {
     wx.navigateTo({
       url: '../logs/logs'
+    })
+  },
+  goWoker: function() {
+    wx.navigateTo({
+      url: '../woker/woker'
+    })
+  },
+  goProduct: function() {
+    wx.navigateTo({
+      url: '../product/product'
     })
   },
   calling: function () {
