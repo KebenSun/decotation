@@ -1,0 +1,5 @@
+.about-box{
+  font-size: 14px;
+  padding:10rpx;
+  text-indent: 20px;
+}

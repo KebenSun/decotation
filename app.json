@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/woker/woker",
-    "pages/product/product"
+    "pages/product/product",
+    "pages/about/about"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -7,13 +7,13 @@
       <div class="content-item">我要装修</div>
       <div bindtap="goWoker" class="content-item two">设计师</div>
       <div bindtap="goProduct" class="content-item three">案例欣赏</div>
-      <div class="content-item four">公司介绍</div>
+      <div bindtap="goAbout" class="content-item four">公司介绍</div>
   </view>
   <view class="contact">
       <div class="phone" bindtap="calling">
           <label>24小时热线电话：</label>15020360219
       </div>
-      <div class="address" bindtap="addressMap">
+      <div class="address">
           <label>公司地址：</label>临沂市兰山区涑河南街34号
       </div>
   </view>

@@ -22,11 +22,13 @@
   margin-bottom: 30rpx;
   padding-bottom: 10rpx;
   justify-content: center;
+  flex-wrap: wrap;
 }
 .product-item image {
   width: 350rpx; 
   height: 390rpx;
-  margin-right: 10rpx;
+  margin-right: 5rpx;
+  margin-top: 5rpx;
 }
 .product-item image:last-child {
   margin-right: 0rpx;

@@ -3,16 +3,28 @@
   <span class="product-title">欧式简约</span>
   <div class="product-item">
     <image src='{{picUrl}}/2017/08/20/thumb_7250.jpg'></image>
-    <image src='{{picUrl}}/2017/08/20/thumb_7250.jpg'></image>
+    <image src='{{picUrl}}/2017/11/30/thumb_7524.jpg'></image>
+    <image src='{{picUrl}}/2017/11/28/thumb_7422.jpg'></image>
+    <image src='{{picUrl}}/2017/07/22/thumb_7198.jpg'></image>
   </div>
-  <span class="product-title">欧式简约</span>
+  <span class="product-title">后现代</span>
   <div class="product-item">
-    <image src='{{picUrl}}/2017/08/20/thumb_7250.jpg'></image>
-    <image src='{{picUrl}}/2017/08/20/thumb_7250.jpg'></image>
+    <image src='{{picUrl}}/2017/11/17/thumb_7366.jpg'></image>
+    <image src='{{picUrl}}/2015/10/10/thumb_5974.jpg'></image>
   </div>
-  <span class="product-title">欧式简约</span>
+  <span class="product-title">美式</span>
   <div class="product-item">
-    <image src='{{picUrl}}/2017/08/20/thumb_7250.jpg'></image>
-    <image src='{{picUrl}}/2017/08/20/thumb_7250.jpg'></image>
+    <image src='{{picUrl}}/2017/11/30/thumb_7500.jpg'></image>
+    <image src='{{picUrl}}/2017/11/29/thumb_7439.jpg'></image>
+  </div>
+  <span class="product-title">欧式</span>
+  <div class="product-item">
+    <image src='{{picUrl}}/2017/12/10/thumb_7567.jpg'></image>
+    <image src='{{picUrl}}/2017/11/17/thumb_7346.jpg'></image>
+  </div>
+  <span class="product-title">中式</span>
+  <div class="product-item">
+    <image src='{{picUrl}}/2017/09/09/thumb_7264.jpg'></image>
+    <image src='{{picUrl}}/2017/11/17/thumb_7373.jpg'></image>
   </div>
 </view>

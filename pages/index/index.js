@@ -43,9 +43,14 @@ Page({
       url: '../product/product'
     })
   },
+  goAbout: function() {
+    wx.navigateTo({
+      url: '../about/about'
+    })
+  },
   calling: function () {
     wx.makePhoneCall({
-      phoneNumber: '18763257699',   
+      phoneNumber: '15020360219',   
       success: function () {
         console.log("拨打电话成功！")
       },
